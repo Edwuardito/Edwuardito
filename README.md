@@ -1,11 +1,33 @@
-### Hola 👋
 
-Hola bienvenido a mi perfil, me presento : soy Edwin Rodríguez, Tengo 21 años , me gradue de Soy Henry, donde he adquirido conocimientos en las últimas tecnologías ( REACT, REDUX, JAVASCRIPT, HTML, CSS, SEQUELIZE, POSTGRESQL, EXPRESS.JS Y BOOTSTRAP)y me enfrente a diversos retos.
+Bienvenido a mi perfil de GitHub!
 
-Si quieres saber mas sobre mi contáctame al siguiente correo : a20edwin02@gmail.com
+¡Hola! Soy Edwin Rodríguez García, un Desarrollador Web Full Stack apasionado por la tecnología y la programación. A continuación, te presento un resumen sobre mí y algunos de mis proyectos y habilidades.
 
-### Hi there 👋
+Sobre mí
 
-Hello, welcome to my profile. Let me introduce myself: I am Edwin Rodríguez. I am 21 years old and I graduated from Soy Henry, where I acquired knowledge in the latest technologies (REACT, REDUX, JAVASCRIPT, HTML, CSS, SEQUELIZE, POSTGRESQL, EXPRESS.JS, and BOOTSTRAP) and faced various challenges.
+👨‍💼 Profesión: Desarrollador Web Full Stack
 
-If you want to know more about me, contact me at the following email: a20edwin02@gmail.com.
+🎓 Educación: Estudié en Soy Henry 
+
+Soy Henry me brindo las herramientas necesarias para desarollar ONE, ONE es un proyecto estilo Marketplace que permite la compra y venta de productos diversos, desde accesorios para vehículos hasta notebooks. Es una plataforma donde cada usuario puede aumentar las ventas de su emprendimiento o encontrar aquel producto que siempre ha deseado.
+
+Logros y Aprendizajes
+
+Trabajo en equipo: Colaboré con un equipo talentoso aplicando SCRUM , TRELLO , GIT HUB como herramientas efectivas de trabajo
+Comunicación efectiva: La comunicación clara y abierta fue clave para el éxito del proyecto, asegurándonos de estar alineados en nuestros objetivos y decisiones.
+Git Hub: Utilizamos Git y GitHub para el control de versiones y la colaboración en el código fuente, permitiendo un flujo de trabajo eficiente y seguro.
+Autoevaluación: A lo largo del proyecto, aprendí a ser reflexivo y a evaluar mi propio trabajo, lo que me permitió mejorar constantemente.
+Conocimientos tech para un proyecto real: Pude aplicar y consolidar mis conocimientos técnicos en un proyecto real y significativo.
+
+Tecnologías y Habilidades
+
+Como Desarrollador Web Full Stack, he trabajado con diversas tecnologías y herramientas:
+
+Front-end: React, Redux, HTML, CSS, Bootstrap
+Back-end: Node.js, Express
+Bases de Datos: SQL, PostgreSQL
+Otras: JavaScript, Git Flow
+
+Si deseas saber más sobre mí o mi trabajo, no dudes en contactarme a través de mi correo electrónico: a20edwin02@gmail.com
+
+¡Gracias por visitar mi perfil de GitHub! ¡Espero que encuentres proyectos interesantes y disfrutes explorando mi trabajo como desarrollador!
